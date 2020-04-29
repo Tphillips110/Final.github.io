@@ -1,3 +1,34 @@
 h1 {
-    color: red;
+    color: #445e93;
+    background-color: #eeeeee;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #eeeeee;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-right: 1px solid #eeeeee;
+    align-content: center;
+}
+li :last-child {
+    border-right: none;
+}
+a {
+    text-decoration: none;
+}
+.naver {
+    display: table;
+    margin: 0 auto;
+}
+nav {
+    background-color: #e5935c;
+    margin-left: 200px;
+    margin-right: 200px;
 }
