@@ -8,27 +8,51 @@ body {
     background-color: #eeeeee;
 }
 ul {
-    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
 }
 li {
+    color: #eeeeee;
     display: inline;
-    padding-left: 25px;
-    padding-right: 25px;
+    margin: 0px;
     border-right: 1px solid #eeeeee;
-    align-content: center;
+    padding-right: 25px;
+    padding-left: 25px;
+    font-size: 17px;
 }
-li :last-child {
+li:first-child{
+    padding-left: 100px;
+}
+li:last-child {
     border-right: none;
 }
 a {
     text-decoration: none;
+    color: #eeeeee;
 }
-.naver {
-    display: table;
-    margin: 0 auto;
+a:visited{
+    color: #eeeeee;
 }
 nav {
     background-color: #e5935c;
     margin-left: 200px;
     margin-right: 200px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+    background-image: url(images/splatter\ banner2.png);
+    image-
+}
+li :hover{
+    color: #445e93;
+}
+.mark{
+    width: 100px;
+    height: auto;
+    
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-image: url(images/splatter\ banner.png);
 }
