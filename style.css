@@ -87,3 +87,12 @@ h3{
 h3 :first-child {
     color: red;
 }
+.info-contact {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    margin: 20px;
+    color: #445e93;
+    line-height: 25px;
+    max-width: 85%;
+    margin-bottom: 20px;
+}
