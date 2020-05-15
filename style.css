@@ -91,8 +91,99 @@ h3 :first-child {
     grid-column-start: 1;
     grid-column-end: 2;
     margin: 20px;
-    color: #445e93;
     line-height: 25px;
     max-width: 85%;
+    color: #445e93;
     margin-bottom: 20px;
+}
+.info-gall {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    margin: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.drg {
+    width: 30%;
+    margin: 10px;
+}
+.ace {
+    width: 30%;
+    margin: 10px;
+}
+.fly {
+    width: 30%;
+    margin: 10px;
+}
+.butch {
+    width: 30%;
+    margin: 10px;
+}
+.cap {
+    width: 30%;
+    margin: 10px;
+}
+.greek {
+    width: 30%;
+    margin: 10px;
+}
+.flay {
+    width: 30%;
+    margin: 10px;
+}
+.jst {
+    width: 30%;
+    margin: 10px;
+}
+.katie {
+    width: 30%;
+    margin: 10px;
+}
+.bev {
+    width: 30%;
+    margin: 10px;
+}
+.kev {
+    width: 30%;
+    margin: 10px;
+}
+.mark {
+    width: 30%;
+    margin: 10px;
+}
+.phx {
+    width: 30%;
+    margin: 10px;
+}
+.stl {
+    width: 30%;
+    margin: 10px;
+}
+.pxl {
+    width: 30%;
+    margin: 10px;
+}
+.salm {
+    width: 30%;
+    margin: 10px;
+}
+.sheet {
+    width: 30%;
+    margin: 10px;
+}
+.sun {
+    width: 30%;
+    margin: 10px;
+}
+.ukr {
+    width: 30%;
+    margin: 10px;
+}
+.van {
+    width: 30%;
+    margin: 10px;
+}
+.vis {
+    width: 30%;
+    margin: 10px;
 }
